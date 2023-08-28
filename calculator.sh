@@ -3,4 +3,6 @@
 #addition 
 #
 a+b
-
+#multiplication 
+#
+a*b
