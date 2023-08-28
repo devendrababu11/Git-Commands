@@ -6,3 +6,7 @@ a+b
 #multiplication 
 #
 a*b
+#
+#Division
+#
+a/b
