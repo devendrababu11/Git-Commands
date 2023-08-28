@@ -12,3 +12,5 @@ git checkout -b branchname --> to create a child branch
 git checkout branchname --> to switch branches
 git reset --hard commitid --> to change the head 
 git log --oneline --> It will give all commits in one line.
+git merge branchname --> It is used to merge the brnaches in non linear order
+git rebase branchname --> To merge the branches in linear order
